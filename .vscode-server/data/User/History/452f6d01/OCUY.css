@@ -1,0 +1,13 @@
+body {
+    width: 760px;
+    margin: 100px auto;
+}
+
+.card__img {
+    width: 40%;
+}
+
+.card__img img {
+    width: 40%;
+    vertical-align: top;
+}

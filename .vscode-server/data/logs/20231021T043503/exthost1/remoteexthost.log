@@ -1,0 +1,30 @@
+2023-10-21 04:35:05.389 [info] Extension host with pid 503 started
+2023-10-21 04:35:05.394 [error] Error: EEXIST: file already exists, open '/home/yosuke/.vscode-server/data/User/workspaceStorage/fdc858a813a3c52291b45787ff50b6eb/vscode.lock'
+2023-10-21 04:35:05.404 [info] Lock '/home/yosuke/.vscode-server/data/User/workspaceStorage/fdc858a813a3c52291b45787ff50b6eb/vscode.lock': Could not acquire lock, checking if the file is stale.
+2023-10-21 04:35:05.409 [info] Lock '/home/yosuke/.vscode-server/data/User/workspaceStorage/fdc858a813a3c52291b45787ff50b6eb/vscode.lock': The pid 5027 appears to be gone.
+2023-10-21 04:35:05.409 [info] Lock '/home/yosuke/.vscode-server/data/User/workspaceStorage/fdc858a813a3c52291b45787ff50b6eb/vscode.lock': Deleting a stale lock.
+2023-10-21 04:35:05.460 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-10-21 04:35:05.461 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-10-21 04:35:05.484 [info] Lock '/home/yosuke/.vscode-server/data/User/workspaceStorage/fdc858a813a3c52291b45787ff50b6eb/vscode.lock': Lock acquired.
+2023-10-21 04:35:06.296 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-10-21 04:35:06.413 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-10-21 04:35:06.413 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-10-21 04:35:06.606 [info] Eager extensions activated
+2023-10-21 04:35:06.607 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-10-21 04:35:06.607 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-10-21 04:41:58.732 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2023-10-21 05:11:12.486 [error] [vscode.html-language-features] provider FAILED
+2023-10-21 05:11:12.487 [error] Error: DisposableStore is missing...
+	at ge.l (/home/yosuke/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:128:51908)
+	at ge.resolveCompletionItem (/home/yosuke/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:128:51373)
+2023-10-21 05:15:47.996 [error] [vscode.html-language-features] provider FAILED
+2023-10-21 05:15:47.996 [error] Error: DisposableStore is missing...
+	at ge.l (/home/yosuke/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:128:51908)
+	at ge.resolveCompletionItem (/home/yosuke/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:128:51373)
+2023-10-21 05:40:15.554 [error] [vscode.html-language-features] provider FAILED
+2023-10-21 05:40:15.554 [error] Error: DisposableStore is missing...
+	at ge.l (/home/yosuke/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:128:51908)
+	at ge.resolveCompletionItem (/home/yosuke/.vscode-server/bin/f1b07bd25dfad64b0167beb15359ae573aecd2cc/out/vs/workbench/api/node/extensionHostProcess.js:128:51373)
+2023-10-21 05:42:51.273 [info] Extension host terminating: received terminate message from renderer
+2023-10-21 05:42:51.273 [info] Lock '/home/yosuke/.vscode-server/data/User/workspaceStorage/fdc858a813a3c52291b45787ff50b6eb/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-10-21 05:42:51.319 [info] Extension host with pid 503 exiting with code 0

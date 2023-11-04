@@ -1,0 +1,18 @@
+2023-10-21 04:10:39.387 [info] Extension host with pid 510 started
+2023-10-21 04:10:39.391 [error] Error: EEXIST: file already exists, open '/home/yosuke/.vscode-server/data/User/workspaceStorage/fdc858a813a3c52291b45787ff50b6eb/vscode.lock'
+2023-10-21 04:10:39.399 [info] Lock '/home/yosuke/.vscode-server/data/User/workspaceStorage/fdc858a813a3c52291b45787ff50b6eb/vscode.lock': Could not acquire lock, checking if the file is stale.
+2023-10-21 04:10:39.403 [info] Lock '/home/yosuke/.vscode-server/data/User/workspaceStorage/fdc858a813a3c52291b45787ff50b6eb/vscode.lock': The lock looks stale, waiting for 2s.
+2023-10-21 04:10:39.454 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-10-21 04:10:39.456 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-10-21 04:10:40.459 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-10-21 04:10:41.404 [info] Lock '/home/yosuke/.vscode-server/data/User/workspaceStorage/fdc858a813a3c52291b45787ff50b6eb/vscode.lock': The lock looks stale even after waiting for 2s.
+2023-10-21 04:10:41.404 [info] Lock '/home/yosuke/.vscode-server/data/User/workspaceStorage/fdc858a813a3c52291b45787ff50b6eb/vscode.lock': Deleting a stale lock.
+2023-10-21 04:10:41.409 [info] Lock '/home/yosuke/.vscode-server/data/User/workspaceStorage/fdc858a813a3c52291b45787ff50b6eb/vscode.lock': Lock acquired.
+2023-10-21 04:10:41.455 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-10-21 04:10:41.455 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-10-21 04:10:41.630 [info] Eager extensions activated
+2023-10-21 04:10:41.630 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-10-21 04:10:41.631 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-10-21 04:29:46.122 [info] Extension host terminating: received terminate message from renderer
+2023-10-21 04:29:46.123 [info] Lock '/home/yosuke/.vscode-server/data/User/workspaceStorage/fdc858a813a3c52291b45787ff50b6eb/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-10-21 04:29:46.155 [info] Extension host with pid 510 exiting with code 0

@@ -1,0 +1,12 @@
+2023-10-12 17:33:58.318 [info] 
+
+
+
+
+2023-10-12 17:33:58.334 [info] Extension host agent started.
+2023-10-12 17:33:58.405 [info] Deleted uninstalled extension from disk ms-ceintl.vscode-language-pack-ja /home/yosuke/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ja-1.83.2023100409
+2023-10-12 17:33:58.613 [info] [127.0.0.1][f879d74b][ManagementConnection] New connection established.
+2023-10-12 17:33:58.869 [info] [127.0.0.1][23a98c51][ExtensionHostConnection] New connection established.
+2023-10-12 17:33:58.933 [info] [127.0.0.1][23a98c51][ExtensionHostConnection] <498> Launched Extension Host Process.
+2023-10-12 22:14:04.416 [info] [127.0.0.1][f879d74b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-10-12 22:14:04.531 [info] [127.0.0.1][23a98c51][ExtensionHostConnection] <498> Extension Host Process exited with code: 0, signal: null.

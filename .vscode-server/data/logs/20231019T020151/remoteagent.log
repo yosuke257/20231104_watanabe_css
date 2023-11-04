@@ -1,0 +1,9 @@
+2023-10-19 02:01:51.974 [info] 
+
+
+
+
+2023-10-19 02:01:51.992 [info] Extension host agent started.
+2023-10-19 02:01:52.069 [info] [127.0.0.1][051101e4][ManagementConnection] New connection established.
+2023-10-19 02:01:52.488 [info] [127.0.0.1][adb531bc][ExtensionHostConnection] New connection established.
+2023-10-19 02:01:52.492 [info] [127.0.0.1][adb531bc][ExtensionHostConnection] <517> Launched Extension Host Process.
