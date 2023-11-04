@@ -155,3 +155,9 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin git@github.com:yosuke257/20231104_watanabe_css.git
 git push -u origin main
+cd ~/coachtech/html-css/css-test
+git add -A
+git commit -m "任意のメッセージ"
+git push
+cd ~/coachtech/html-css/css-test
+git@github.com:yosuke257/20231104_watanabe_css.git
